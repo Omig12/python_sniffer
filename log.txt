@@ -1,0 +1,16 @@
+Total Packets sniffed: 32243
+From the 32243 packets:
+	18 where ARP
+	30665 where IP
+	1560 where Others
+From the 32243 IP packets:
+	17881 where UDP
+	69 where ICMP
+	12715 where TCP
+	0 where Others
+From the 30665 TCP and UDP packets:
+	0 where SMTP
+	12737 where HTTP
+	74 where SSH
+	53 where DNS
+	17732 where Others
